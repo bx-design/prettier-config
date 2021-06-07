@@ -4,5 +4,12 @@
   "main": "prettier.json",
   "repository": "git@github.com:bx-design/prettier-config.git",
   "author": "BX Creative Studio",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "prettier.json",
+    ".prettierignore"
+  ]
 }
