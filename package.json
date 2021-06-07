@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config",
+  "name": "@bx-design/prettier-config",
   "version": "1.0.0",
   "main": "prettier.json",
   "repository": "git@github.com:bx-design/prettier-config.git",
