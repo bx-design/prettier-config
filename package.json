@@ -2,5 +2,7 @@
   "name": "prettier-config",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "git@github.com:bx-design/prettier-config.git",
+  "author": "BX Creative Studio",
   "license": "MIT"
 }
