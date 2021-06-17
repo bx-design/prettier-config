@@ -1,6 +1,6 @@
 {
   "name": "@bx-design/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "prettier.json",
   "repository": "git@github.com:bx-design/prettier-config.git",
   "author": "BX Creative Studio",
